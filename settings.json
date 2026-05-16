@@ -8,7 +8,7 @@
   "server": {
     "ip": "ZServer1.aternos.me",
     "port": 25191,
-    "version": "26.1.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
